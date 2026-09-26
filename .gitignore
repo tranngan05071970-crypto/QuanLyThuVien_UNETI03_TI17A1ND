@@ -1,0 +1,21 @@
+## Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Compressed files
+*.rar
+*.zip
+*.7z
+
+## Helper script
+DAY_CODE_LEN_GITHUB.bat
